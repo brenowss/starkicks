@@ -1,0 +1,21 @@
+.banner {
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    max-height: 500px;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.bannerImage {
+    width: 300px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.productImage {
+    width: 100%;
+}
